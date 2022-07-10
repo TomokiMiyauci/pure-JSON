@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "https://deno.land/x/pure_json@$VERSION/": "./",
+    "https://deno.land/std@$VERSION/": "https://deno.land/std@0.147.0/"
+  }
+}
